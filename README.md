@@ -1,5 +1,7 @@
 # A Letter to Our Customers
 
+* [中文版](./README_CN.md)
+
 Based on our experience, you may be visiting us due to an interest in smart hardware startups, looking for new business opportunities, or hoping to improve existing products. Whatever your goal is, you've come to the right place. We specialize in helping customers start from scratch and gradually achieve their ideal smart hardware products. We have developed an effective approach to get you started quickly. In short, we have integrated as many functions as possible into a single product and provide a matching cloud processing system. More importantly, we open-source the entire product design and system code so that you can gain a deep understanding and make customized adjustments according to your needs. This way, you can quickly launch projects based on our solutions and tailor them to meet your specific requirements.
 
 ## End-to-End Service Capability
