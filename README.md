@@ -6,8 +6,12 @@ Based on our experience, you may be visiting us due to an interest in smart hard
 
 We are capable of providing end-to-end custom hardware R&D and production services. Just tell us your needs, and we can offer a one-stop solution including PCB design, embedded firmware development, cloud system and app development, casing design, injection molding, manual and packaging design and production services, as well as agency services for required product certifications. Additionally, we own four SMT assembly lines, providing comprehensive production support from prototyping to mass production, ensuring efficiency and high-quality completion at every stage.
 
-![Our Factory](./images/a1.jpg)
-![Our Production Line](./images/a2.jpg)
+<table>
+  <tr>
+    <td><img src="./images/a1.jpg" alt="Our Factory" width="400"/></td>
+    <td><img src="./images/a2.jpg" alt="Our Production Line" width="400"/></td>
+  </tr>
+</table>
 
 ## Core Team
 
