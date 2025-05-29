@@ -17,7 +17,7 @@ We are capable of providing end-to-end custom hardware R&D and production servic
 
 ## Core Team
 
-Our core team members graduated from top universities in China, such as Fudan University and Shanghai Jiao Tong University. Since 2015, despite numerous challenges, we have successfully served many domestic and international clients. With over a decade of technical accumulation, we have explored and established a set of effective strategies to promote customer growth and development. In the following sections, we will introduce these experiences and case studies in detail.
+Our core team members graduated from top universities. Since 2015, despite numerous challenges, we have successfully served many domestic and international clients. With over a decade of technical accumulation, we have explored and established a set of effective strategies to promote customer growth and development. In the following sections, we will introduce these experiences and case studies in detail.
 
 ## Contact Information
 
